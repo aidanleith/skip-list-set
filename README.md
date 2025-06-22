@@ -8,4 +8,4 @@ Implements Java's SortedSet interface.
 Dynamically adjusts height for probabilistic balancing. 
 
 ## Test Harness
-The project includes a test file that compares runtimes against LinkedList and TreeSet. Performance tests are done with random integers, doubles, and strings for all 3 operations.
+The project includes a test file that compares runtimes against LinkedList and TreeSet. Performance tests are done with random integers, doubles, and strings for all 3 operations on a large scale. To run the test harness, simply execute the main method in SkipListTestHarness.java.
